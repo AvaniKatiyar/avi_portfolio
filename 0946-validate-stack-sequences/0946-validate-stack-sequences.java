@@ -1,6 +1,6 @@
 class Solution {
     public boolean validateStackSequences(int[] pushed, int[] popped) {
-        Stack<Integer> st = new Stack<>(); // Create a stack
+        Stack < Integer > st = new Stack <> (); // Create a stack
         
         int j = 0; // Intialise one pointer pointing on popped array
         
