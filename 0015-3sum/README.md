@@ -39,3 +39,7 @@ Notice that the order of the output and the order of the triplets does not matte
 	<li><code>3 &lt;= nums.length &lt;= 3000</code></li>
 	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
+
+
+
+================this is the question and here"s java code for the same======================================== 
