@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -14,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2751-robot-collisions/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 <!---LeetCode Topics End-->
