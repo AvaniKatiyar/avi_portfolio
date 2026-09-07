@@ -12,6 +12,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0120-triangle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0724-find-pivot-index](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2751-robot-collisions](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -199,4 +200,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
